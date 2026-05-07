@@ -18,7 +18,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ SOCIAL BADGES ░░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <a href="https://github.com/a-h-arman-hussain">
+  <a href="https://github.com/abdulhakimarman">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:armanhd16@gmail.com">
@@ -75,12 +75,12 @@ I'm a **Frontend Developer & UI/UX Designer** who loves clean, modern interfaces
 
 # 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=a-h-arman-hussain&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=a-h-arman-hussain&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulhakimarman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=abdulhakimarman&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=a-h-arman-hussain&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhakimarman&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 
@@ -88,7 +88,7 @@ I'm a **Frontend Developer & UI/UX Designer** who loves clean, modern interfaces
 
 # 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-h-arman-hussain&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulhakimarman&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6" />
 </p>
 
 
@@ -111,14 +111,14 @@ Check the pinned repositories below 👇
 </div>
 
 <p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=a-h-arman-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abdulhakimarman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-  <a href="https://github.com/a-h-arman-hussain?tab=followers">
-    <img src="https://img.shields.io/github/followers/a-h-arman-hussain?label=Followers&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/abdulhakimarman?tab=followers">
+    <img src="https://img.shields.io/github/followers/abdulhakimarman?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
 
-  <a href="https://github.com/a-h-arman-hussain/a-h-arman-hussain">
-    <img src="https://img.shields.io/github/stars/a-h-arman-hussain?style=social" alt="GitHub Stars"/>
+  <a href="https://github.com/abdulhakimarman/abdulhakimarman">
+    <img src="https://img.shields.io/github/stars/abdulhakimarman?style=social" alt="GitHub Stars"/>
   </a>
 </p>
 
